@@ -142,10 +142,16 @@ html {
 
 .projetos .titulo {
     text-align: center;
-    padding: 60px;
+    padding: 20px;
     font-size: 45px;
     font-weight: 500;
     text-transform: uppercase;
+}
+
+.descricao {
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 30px;
 }
 
 .projetos .container-projetos {
