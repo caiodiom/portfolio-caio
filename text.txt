@@ -1,0 +1,20 @@
+<div >
+        <ul class="liguagens" >
+          <li>
+              <img class="img-linguagens" src="src/imagens/HTML5_logo_and_wordmark.svg.png">
+              
+          </li>
+          <li>
+              <img class="img-linguagens" src="src/imagens/css3_id.png" alt="Logo CSS">
+              
+          </li>
+          <li>
+              <img class="img-linguagens" src="src/imagens/javascript_id.png" alt="Logo JavaScript">
+          
+          </li>
+          <li>
+              <img class="img-linguagens" src="src/imagens/react-logo.png" alt="Logo React">
+              
+          </li>
+      </ul>
+</div>

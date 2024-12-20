@@ -114,6 +114,8 @@ html {
 }
 
 .home .container-foto .foto {
+
+    
     background:
         linear-gradient(to right,
             #8a35c8,
@@ -127,12 +129,14 @@ html {
 
 
 .home .container-foto img {
-    
+      
    /*tamanho da foto 460x460 */
     width: 100%;
     border-radius: 50%;
 
 }
+
+
 
 .projetos {
    
