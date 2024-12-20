@@ -1,9 +1,14 @@
 @media(max-width: 1280px) {
-    
+    .paragrafo1, .paragrafo2 {
+        width: auto;
+    }
     .cabecalho {
         padding: 30px;
     }
+    .home .container-foto .foto {
 
+        margin-bottom: 10px;
+    }
     .home {
         flex-direction: column-reverse;
         align-items: center;
